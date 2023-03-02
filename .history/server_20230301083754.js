@@ -1,5 +1,3 @@
-////server.js - Revathy Jalaja Kumari - 301164185 - Favorite Book list
-
 import debug from 'debug';
 debug('comp-229');
 import http from 'http';
